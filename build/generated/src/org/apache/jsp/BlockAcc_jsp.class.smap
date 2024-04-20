@@ -1,0 +1,14 @@
+SMAP
+BlockAcc_jsp.java
+JSP
+*S JSP
+*F
++ 0 BlockAcc.jsp
+BlockAcc.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
+*L
+5,4:49
+1#1,36:52
+8#0,20:88
+*E
